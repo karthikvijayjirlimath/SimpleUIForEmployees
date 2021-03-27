@@ -1,0 +1,14 @@
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe.config
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.exe
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\bin\Debug\simpleCalculator.pdb
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\App.g.cs
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator_MarkupCompile.cache
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.g.resources
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.Properties.Resources.resources
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.exe
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.pdb
+C:\Users\demo\source\repos\simpleCalculator\simpleCalculator\obj\Debug\simpleCalculator.csprojAssemblyReference.cache
